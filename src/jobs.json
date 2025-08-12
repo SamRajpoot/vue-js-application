@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "8501",
+      "title": "React Developer ",
+      "type": "Full-Time",
+      "location": "Miami",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated ...",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "SamValley Systems ",
+        "description": "SamValley Systems  is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "samvalley@gmail.com",
+        "contactPhone": "879-654-2387"
+      }
     }
   ]
 }
